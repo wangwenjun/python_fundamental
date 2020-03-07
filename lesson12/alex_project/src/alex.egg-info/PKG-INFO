@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: alex
+Version: 2020.1.5
+Summary: this is my first setup project
+Home-page: alexwang.github.com/test/fun
+Author: Alex Wang
+Author-email: xxxx@gmail.com
+License: ASF 2.0
+Description: looooooooooooooooooooooooooooooooooooog description
+Keywords: package,install,setup,example
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: OS Independent
+Classifier: Natural Language :: Chinese (Simplified)
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Utilities

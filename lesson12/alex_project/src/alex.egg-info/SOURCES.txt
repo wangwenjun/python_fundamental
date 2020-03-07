@@ -1,0 +1,8 @@
+setup.py
+src/alex/__init__.py
+src/alex/my_module.py
+src/alex/test.py
+src/alex.egg-info/PKG-INFO
+src/alex.egg-info/SOURCES.txt
+src/alex.egg-info/dependency_links.txt
+src/alex.egg-info/top_level.txt
