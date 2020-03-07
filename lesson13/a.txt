@@ -1,0 +1,3 @@
+Readable mode +
+hahahahanew line
+new line too.
